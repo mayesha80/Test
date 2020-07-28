@@ -1,8 +1,10 @@
-[{
-	"day": "sunday",
+{
 	"classes": [{
-		"name": "test",
-		"startDay": "10.00",
-		"endDay": "12.00"
+		"day": "sunday",
+		"classes": [{
+			"name": "test",
+			"startDay": "10.00",
+			"endDay": "12.00"
+		}]
 	}]
-}]
+}

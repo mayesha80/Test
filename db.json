@@ -58,7 +58,7 @@
 			"startTime": "03.00",
 			"endTime": "04.00"
 		}]
-	},
+	}
 	}],
 	"subjects":[{"id": "lec1", "title":"tc"},{"id": "lec2", "title":"sre"}],
 	"lec1":[{

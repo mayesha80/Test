@@ -10,6 +10,8 @@
 			"startTime": "03.30",
 			"endTime": "05.00"
 		}]
+	},
+		    {
 		"day": "monday",
 		"classes": [{
 			"name": "Electromagnetic Theory & Antenna",

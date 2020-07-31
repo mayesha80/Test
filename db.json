@@ -2,11 +2,11 @@
 	"classes": [{
 		"day": "sunday",
 		"classes": [{
-			"name": "Web Technologies",
+			"name": "WT",
 			"startTime": "11.00",
 			"endTime": "12.00"
 		},{
-			"name": "Microprocessor and Computer Architecture",
+			"name": "MCA",
 			"startTime": "03.30",
 			"endTime": "05.00"
 		}]
@@ -14,18 +14,55 @@
 		    {
 		"day": "monday",
 		"classes": [{
-			"name": "Electromagnetic Theory & Antenna",
+			"name": "ETA",
 			"startTime": "12.00",
 			"endTime": "01.00"
 		},{
-			"name": "Software & Requirements Engineering",
-			"startTime": "03.30",
-			"endTime": "04.30"
+			"name": "SRE",
+			"startTime": "03.00",
+			"endTime": "04.00"
 		}]
+        },
+		    {
+		"day": "tuesday",
+		"classes": [{
+			"name": "WT",
+			"startTime": "11.00",
+			"endTime": "12.00"
+		},{
+			"name": "MCA",
+			"startTime": "03.30",
+			"endTime": "05.00"
+		}]
+	},
+		    {
+		"day": "wednesday",
+		"classes": [{
+			"name": "TA",
+			"startTime": "10.00",
+			"endTime": "11.00"
+		},{
+			"name": "ETA",
+			"startTime": "12.00",
+			"endTime": "01.00"
+		}]
+	},
+		    {
+		"day": "thusday",
+		"classes": [{
+			"name": "TA",
+			"startTime": "12.00",
+			"endTime": "01.00"
+		},{
+			"name": "SRE",
+			"startTime": "03.00",
+			"endTime": "04.00"
+		}]
+	},
 	}],
-	"subjects":[{"id": "test", "title":"Test Subject"}],
-	"test":[{
-		"title": "test",
-		"url": "1KmXipJCioYqDlvyClRVYBvE0W8utkoSK"
+	"subjects":[{"id": "lec1", "title":"tc"},{"id": "lec2", "title":"sre"}],
+	"lec1":[{
+		"title": "lec1",
+		"url": "139nDHRNLz6OfKJpgUhTyy2t-y62XhTJV"
 	}]
 }

@@ -23,7 +23,8 @@
 			"endTime": "12.00"
 		}]
 	}],
-	"lectures":[{
+	"subjects":[{"id": "test", "title":"Test Subject"}],
+	"test":[{
 		"title": "test",
 		"url": "1dXndP-MjQL7USlP0EtaElx67mXujqCSX"
 	}]

@@ -2,25 +2,23 @@
 	"classes": [{
 		"day": "sunday",
 		"classes": [{
-			"name": "test",
-			"startTime": "10.00",
+			"name": "Web Technologies",
+			"startTime": "11.00",
 			"endTime": "12.00"
 		},{
-			"name": "test",
-			"startTime": "10.00",
-			"endTime": "12.00"
+			"name": "Microprocessor and Computer Architecture",
+			"startTime": "03.30",
+			"endTime": "05.00"
+		}]
+		"day": "monday",
+		"classes": [{
+			"name": "Electromagnetic Theory & Antenna",
+			"startTime": "12.00",
+			"endTime": "01.00"
 		},{
-			"name": "test",
-			"startTime": "10.00",
-			"endTime": "12.00"
-		},{
-			"name": "test",
-			"startTime": "10.00",
-			"endTime": "12.00"
-		},{
-			"name": "test",
-			"startTime": "10.00",
-			"endTime": "12.00"
+			"name": "Software & Requirements Engineering",
+			"startTime": "03.30",
+			"endTime": "04.30"
 		}]
 	}],
 	"subjects":[{"id": "test", "title":"Test Subject"}],

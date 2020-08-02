@@ -1,6 +1,6 @@
 {
 	"classes": [{
-		"day": "sunday",
+		"day": "Sunday",
 		"classes": [{
 			"name": "WT",
 			"startTime": "11.00",
@@ -12,7 +12,7 @@
 		}]
 	},
 		    {
-		"day": "monday",
+		"day": "Monday",
 		"classes": [{
 			"name": "ETA",
 			"startTime": "12.00",
@@ -24,7 +24,7 @@
 		}]
         },
 		    {
-		"day": "tuesday",
+		"day": "Tuesday",
 		"classes": [{
 			"name": "WT",
 			"startTime": "11.00",
@@ -36,7 +36,7 @@
 		}]
 	},
 		    {
-		"day": "wednesday",
+		"day": "Wednesday",
 		"classes": [{
 			"name": "TA",
 			"startTime": "10.00",
@@ -48,7 +48,7 @@
 		}]
 	},
 		    {
-		"day": "thusday",
+		"day": "Thusday",
 		"classes": [{
 			"name": "TA",
 			"startTime": "12.00",
@@ -59,9 +59,9 @@
 			"endTime": "04.00"
 		}]
 	}],
-	"subjects":[{"id": "lec1", "title":"tc"},{"id": "lec2", "title":"sre"}],
+	"subjects":[{"id": "lec1", "title":"TC"},{"id": "lec2", "title":"SRE"},{"id": "lec2", "title":"TA"},{"id": "lec2", "title":"MCA"},{"id": "lec2", "title":"WT"}],
 	"lec1":[{
 		"title": "lec1",
-		"url": "139nDHRNLz6OfKJpgUhTyy2t-y62XhTJV"
+		"url": "https://drive.google.com/file/d/16zFyjO4iGHIar4ph-z_3wwokYJYoC8kQ/view?usp=sharing"
 	}]
 }

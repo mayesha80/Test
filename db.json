@@ -59,9 +59,95 @@
 			"endTime": "04.00"
 		}]
 	}],
-	"subjects":[{"id": "lec1", "title":"TC"},{"id": "lec2", "title":"SRE"},{"id": "lec2", "title":"TA"},{"id": "lec2", "title":"MCA"},{"id": "lec2", "title":"WT"}],
-	"lec1":[{
+	"subjects":[{"id": "subTC", "title":"TC"},{"id": "subSRE", "title":"SRE"},{"id": "subETA", "title":"ETA"},{"id": "subMCA", "title":"MCA"},{"id": "subWT", "title":"WT"}],
+	"subTC":[{
 		"title": "lec1",
+		"url": "1p-qtMoT5fWnVZz6jntFf5bJnImEeASI8"
+	},{
+		"title": "lec2",
+		"url": "1ep8-bBmxZQZwhg8Fk7w3rx7fX8O79fcJ"
+	}]
+	"subSRE":[{
+		"title": "lec1",
+		"url": ""
+	},{
+		"title": "lec2",
+		"url": ""
+	},{
+		"title": "lec3",
+		"url": ""
+	},{
+		"title": "lec4",
+		"url": "1zUEARv4WA_cFhxxzs1meCXD-9oo9L46t"
+	},{
+		"title": "lec5",
+		"url": ""
+	},{
+		"title": "lec6",
+		"url": ""
+	}]
+        "subETA":[{
+		"title": "lec1",
+		"url": ""
+	},{
+		"title": "lec2",
+		"url": ""
+	},{
+		"title": "lec3",
+		"url": ""
+	},{
+		"title": "lec4",
+		"url": "1KmXipJCioYqDlvyClRVYBvE0W8utkoSK"
+	},{
+		"title": "lec5",
+		"url": "1KoG20eb75zYuWVo1oR5uS4halsneZgDi"
+	},{
+		"title": "lec6",
+		"url": "1Kqn3eUV_zKdBgaek8AMrIvYXgqdHF6rJ"
+	},{
+		"title": "lec7",
+		"url": "1NrTZ5L0ASSedUafYm4AlqxG8PTEWvko3"
+	}]
+        "subMCA":[{
+		"title": "lec1",
+		"url": "1iGrbvjmA_tYvrVK1FRyKoEjdOpELcf6x"
+	},{
+		"title": "lec2",
+		"url": "1Hv5UPD1JfEWmILhgspg5IFm_jLYyHQw2"
+	},{
+		"title": "lec3",
+		"url": "1SiIzErKu3rTLq86He1Ri20rOYRNqA-X5"
+	},{
+		"title": "lec4",
+		"url": "1UfFGsslTYUcBjpj39rudKOB_h1y2_iE1"
+	},{
+		"title": "le5c",
+		"url": "1C93h7F38ngPBTaK47gvo50lPcn2o3kaA"
+	},
+         {
+		"title": "lec6",
 		"url": "16zFyjO4iGHIar4ph-z_3wwokYJYoC8kQ"
+	}{
+		"title": "lec7",
+		"url": "1KiV8n7SsAZvEzERKZuswKVJ7ieeBZ6Bm"
+	}]
+        "subWT":[{
+		"title": "lec1",
+		"url": "1Wjn6-gBYNk7YDCU8U6_0JSrO34Ialu27"
+	},{
+		"title": "lec3",
+		"url": "10D0lLuR8cEphB7RsOSIiUdozGP1DBGN8"
+	},{
+		"title": "lec4",
+		"url": "1wBdg5AFvQD5N5MBWXBdp1nTUfoGR6YFy"
+	},{
+		"title": "lec5",
+		"url": "d/1d4Ox8C0ki_x151z43bSv3Heey0X6zFsQ"
+	},{
+		"title": "lec6",
+		"url": "1gKIPfP9cMSAfG8n7jyIZhCC7cSVAbIG6"
+	},{
+		"title": "lec7",
+		"url": "1qxxaEnU6fUS07GUOId2pq2NsiDUl46tf"
 	}]
 }

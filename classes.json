@@ -1,0 +1,60 @@
+[{
+		"day": "Sunday",
+		"classes": [{
+			"name": "WT",
+			"startTime": "11.00",
+			"endTime": "12.00"
+		},{
+			"name": "MCA",
+			"startTime": "03.30",
+			"endTime": "05.00"
+		}]
+	},
+		    {
+		"day": "Monday",
+		"classes": [{
+			"name": "ETA",
+			"startTime": "12.00",
+			"endTime": "01.00"
+		},{
+			"name": "SRE",
+			"startTime": "03.00",
+			"endTime": "04.00"
+		}]
+        },
+		    {
+		"day": "Tuesday",
+		"classes": [{
+			"name": "WT",
+			"startTime": "11.00",
+			"endTime": "12.00"
+		},{
+			"name": "MCA",
+			"startTime": "03.30",
+			"endTime": "05.00"
+		}]
+	},
+		    {
+		"day": "Wednesday",
+		"classes": [{
+			"name": "TA",
+			"startTime": "10.00",
+			"endTime": "11.00"
+		},{
+			"name": "ETA",
+			"startTime": "12.00",
+			"endTime": "01.00"
+		}]
+	},
+		    {
+		"day": "Thusday",
+		"classes": [{
+			"name": "TA",
+			"startTime": "12.00",
+			"endTime": "01.00"
+		},{
+			"name": "SRE",
+			"startTime": "03.00",
+			"endTime": "04.00"
+		}]
+	}]

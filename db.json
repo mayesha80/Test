@@ -59,7 +59,7 @@
 			"endTime": "04.00"
 		}]
 	}],
-	"subjects":[{"id": "subTC", "title":"TC"},{"id": "subSRE", "title":"SRE"},{"id": "subETA", "title":"ETA"},{"id": "subMCA", "title":"MCA"},{"id": "subWT", "title":"WT"}],
+	"subjects":[{"id": "subETA", "title":"ETA"},{"id": "subTC", "title":"TC"},{"id": "subMCA", "title":"MCA"},{"id": "subSRE", "title":"SRE"},{"id": "subWT", "title":"WT"}],
 	"subTC":[{
 		"title": "lec1",
 		"url": "1p-qtMoT5fWnVZz6jntFf5bJnImEeASI8"
@@ -69,33 +69,19 @@
 	}],
 	"subSRE":[{
 		"title": "lec1",
-		"url": ""
+		"url": "159z-yoxXqld9rb4I1-33lZEHkjB3_PWc"
 	},{
 		"title": "lec2",
-		"url": ""
+		"url": "1cVIaE4BvsWltXMnarfPUwrblZEBAA86n"
 	},{
 		"title": "lec3",
-		"url": ""
+		"url": "1yJgZXSVA55rmrcSR-sVSrqUsqxetACqv"
 	},{
 		"title": "lec4",
 		"url": "1zUEARv4WA_cFhxxzs1meCXD-9oo9L46t"
-	},{
-		"title": "lec5",
-		"url": ""
-	},{
-		"title": "lec6",
-		"url": ""
 	}],
-        "subETA":[{
-		"title": "lec1",
-		"url": ""
-	},{
-		"title": "lec2",
-		"url": ""
-	},{
-		"title": "lec3",
-		"url": ""
-	},{
+        "subETA":[
+        {
 		"title": "lec4",
 		"url": "1KmXipJCioYqDlvyClRVYBvE0W8utkoSK"
 	},{
